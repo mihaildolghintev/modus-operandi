@@ -2,7 +2,7 @@
 	"name": "modus-operandi",
 	"displayName": "modus_operandi",
 	"description": "Emacs modus operandi",
-	"version": "0.0.3",
+	"version": "0.0.4",
   "publisher": "MihailDolghintev",
   "repository": {
     "type": "git",
